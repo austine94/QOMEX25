@@ -1,0 +1,137 @@
+ParticipantID,Group,Selection Time (s),Selection No. of Clicks,Selected Layout,Shown Layout,CQ-H Score,CQ-M Score,CQ-L Score,QD-M Score,QD-L Score,R-0.2s Score,R-0.5s Score,R-1.0s Score
+1,A,23.549,14,Top Left,Top Left,4,4,1,4,2,3,3,2
+2,A,10.631,5,Bottom Right,Bottom Right,4,1,1,2,3,4,4,2
+3,A,24.6,4,Top Left,Top Left,4,4,2,4,3,4,3,4
+4,A,27.208,6,Top Right,Top Right,5,4,1,4,2,3,3,3
+5,A,17.205,6,Top Right,Top Right,4,3,1,4,2,4,3,3
+6,A,12.841,1,Top Right,Top Right,4,3,2,4,2,3,3,2
+7,A,30.028,5,Top Left,Top Left,4,2,1,4,3,2,3,2
+8,A,14.26,4,Bottom Right,Bottom Right,4,3,2,3,2,4,3,3
+9,A,22.142,3,Top Right,Top Right,4,3,1,3,2,4,4,3
+10,A,20.151,3,Top Right,Top Right,5,4,2,4,2,4,4,3
+11,A,19.013,5,Top Right,Top Right,5,5,1,5,3,3,2,2
+12,A,22.325,10,Top Right,Top Right,5,2,1,3,2,4,4,4
+13,A,24.253,5,Top Right,Top Right,3,3,1,4,4,3,3,3
+14,A,24.174,10,Top Right,Top Right,5,4,2,4,3,4,3,4
+15,A,15.656,3,Top Right,Top Right,4,4,2,3,2,4,4,3
+16,A,13.124,1,Top Right,Top Right,4,3,1,4,2,3,3,2
+17,A,31.714,6,Top Right,Top Right,4,4,1,4,2,4,3,3
+18,A,25.955,9,Top Right,Top Right,4,2,1,3,2,3,3,3
+19,A,24.701,7,Top Right,Top Right,4,2,1,2,2,2,2,2
+20,A,22.301,1,Top Right,Top Right,4,3,3,4,1,3,2,2
+21,A,23.089,7,Bottom Right,Bottom Right,4,4,2,4,2,3,3,3
+22,A,27.12,8,Top Right,Top Right,5,2,1,3,1,3,3,3
+23,A,25.386,4,Bottom Right,Bottom Right,4,2,1,2,2,4,3,3
+24,A,16.335,6,Top Left,Top Left,4,2,1,4,2,3,4,4
+25,A,6.77,4,Top Right,Top Right,4,4,1,4,2,3,4,3
+26,A,40.659,9,Top Left,Top Left,4,3,1,3,2,4,4,4
+27,A,23.534,2,Bottom Right,Bottom Right,5,3,1,3,2,4,4,4
+28,A,29.319,10,Top Right,Top Right,5,5,1,5,2,3,2,2
+29,A,15.639,9,Top Right,Top Right,5,4,2,3,3,4,3,2
+30,A,27.601,10,Top Right,Top Right,4,3,1,3,1,3,2,2
+31,A,10.354,1,Bottom Right,Bottom Right,4,3,1,3,2,3,2,2
+32,A,12.35,1,Top Right,Top Right,4,2,1,2,1,3,3,3
+33,A,21.251,3,Top Right,Top Right,5,3,1,4,2,1,1,1
+34,A,23.753,15,Top Right,Top Right,5,4,2,4,2,5,5,5
+35,A,17.057,9,Top Right,Top Right,5,4,2,5,1,4,4,4
+36,A,13.203,11,Top Right,Top Right,4,3,2,4,3,4,3,3
+37,A,12.576,2,Bottom Right,Bottom Right,5,3,2,4,2,4,4,3
+38,A,9.399,3,Bottom Right,Bottom Right,5,3,2,4,3,4,3,4
+39,A,19.358,3,Top Right,Top Right,5,4,1,5,2,4,3,3
+40,A,17.241,9,Top Right,Top Right,5,4,1,3,2,4,3,2
+41,B,0,0,None,Top Right,4,3,1,3,2,3,3,4
+42,B,0,0,None,Top Right,4,2,1,3,3,5,5,4
+43,B,0,0,None,Top Right,5,4,1,5,2,4,4,3
+44,B,0,0,None,Top Right,4,4,1,3,2,4,3,3
+45,B,0,0,None,Top Right,5,3,2,4,3,3,4,4
+46,B,0,0,None,Top Right,5,3,1,4,3,4,5,4
+47,B,0,0,None,Top Right,3,3,1,3,2,3,3,3
+48,B,0,0,None,Top Right,5,3,1,2,1,4,3,3
+49,B,0,0,None,Top Right,3,2,1,3,2,4,3,3
+50,B,0,0,None,Top Right,4,3,1,4,1,2,2,1
+51,B,0,0,None,Top Right,3,2,1,2,2,2,2,2
+52,B,0,0,None,Top Right,5,4,2,5,3,3,3,3
+53,B,0,0,None,Top Right,4,2,1,3,1,2,2,2
+54,B,0,0,None,Top Right,4,4,2,4,4,4,4,5
+55,B,0,0,None,Top Right,5,4,1,4,2,4,3,3
+56,B,0,0,None,Top Right,4,4,1,5,2,4,3,2
+57,B,0,0,None,Top Right,5,3,1,4,2,3,3,3
+58,B,0,0,None,Top Right,3,4,1,3,1,2,2,3
+59,B,0,0,None,Top Right,5,4,1,4,2,2,3,3
+60,B,0,0,None,Top Right,5,5,3,3,2,3,3,3
+61,B,0,0,None,Top Right,4,2,1,3,1,3,2,1
+62,B,0,0,None,Top Right,5,5,1,5,2,3,3,2
+63,B,0,0,None,Top Right,5,3,2,4,2,4,4,4
+64,B,0,0,None,Top Right,4,3,1,3,2,3,3,3
+65,B,0,0,None,Top Right,5,3,1,4,1,3,3,2
+66,B,0,0,None,Top Right,5,5,3,5,3,4,4,4
+67,B,0,0,None,Top Right,5,3,2,4,3,3,3,3
+68,B,0,0,None,Top Right,4,2,1,4,2,4,3,3
+69,B,0,0,None,Top Right,5,3,1,4,2,4,4,4
+70,B,0,0,None,Top Right,5,4,1,3,2,3,4,3
+71,B,0,0,None,Top Right,4,3,1,3,2,4,3,3
+72,B,0,0,None,Top Right,4,3,1,3,2,4,4,3
+73,B,0,0,None,Top Right,5,2,2,3,3,4,3,3
+74,B,0,0,None,Top Right,4,3,1,5,2,4,3,4
+75,B,0,0,None,Top Right,5,3,1,4,3,4,4,4
+76,B,0,0,None,Top Right,4,3,1,4,2,4,3,3
+77,B,0,0,None,Top Right,4,3,1,4,3,4,3,2
+78,B,0,0,None,Top Right,4,3,1,4,2,3,2,2
+79,B,0,0,None,Top Right,5,3,1,4,2,5,4,4
+80,B,0,0,None,Top Right,4,3,1,3,4,4,4,4
+81,B,0,0,None,Top Right,4,4,1,4,2,2,5,1
+82,B,0,0,None,Top Right,5,5,4,2,4,4,5,4
+83,C,11.196,9,Top Right,Top Left,4,3,2,4,1,4,4,3
+84,C,22.356,15,Player Off,Bottom Right,5,3,2,4,2,5,4,4
+85,C,13.554,6,Bottom Right,Top Left,4,4,4,4,4,4,4,4
+86,C,9.489,2,Top Right,Top Left,3,3,2,3,2,3,4,3
+87,C,18.827,3,Top Right,Top Left,4,3,1,3,2,4,3,3
+88,C,11.844,3,Top Right,Top Left,4,2,1,3,3,4,3,4
+89,C,27.615,10,Top Right,Top Left,4,3,1,4,2,3,3,3
+90,C,24.9,9,Bottom Left,Top Right,5,3,1,4,2,3,3,2
+91,C,22.069,9,Top Right,Top Left,4,4,1,4,2,4,3,3
+92,C,53.668,25,Top Left,Bottom Right,3,2,1,3,2,3,2,2
+93,C,20.799,1,Top Right,Top Left,4,2,1,2,1,3,3,2
+94,C,8.333,1,Bottom Right,Top Left,4,3,1,3,2,4,4,4
+95,C,9.594,2,Bottom Left,Top Right,4,3,1,3,2,4,3,3
+96,C,47.226,11,Player Off,Top Right,5,4,1,4,2,5,4,3
+97,C,38.643,4,Bottom Right,Top Left,4,3,2,3,3,4,4,4
+98,C,15.578,6,Top Right,Top Left,4,2,1,3,1,2,1,1
+99,C,29.385,10,Top Right,Top Left,4,2,1,4,2,4,3,4
+100,C,19.614,8,Top Right,Top Left,4,4,1,3,2,2,3,1
+101,C,14.682,3,Top Right,Top Left,4,3,2,4,2,4,3,3
+102,C,30.572,2,Player Off,Top Right,4,4,3,4,2,4,4,4
+103,C,46.138,10,Top Mid,Top Right,4,3,2,4,2,5,3,4
+104,C,13.137,2,Player Off,Top Left,4,4,2,4,2,4,3,2
+105,C,36.182,22,Top Right,Top Left,4,4,1,3,2,3,2,2
+106,C,144.615,4,Top Mid,Top Right,3,4,3,1,4,2,4,3
+107,C,22.538,11,Top Right,Top Left,4,3,1,4,3,3,4,3
+108,C,26.645,9,Bottom Right,Top Left,4,3,1,3,2,3,2,2
+109,C,34.5,14,Player Off,Top Right,5,3,1,3,2,3,4,3
+110,C,93.77,1,Bottom Left,Top Right,4,4,1,4,2,3,3,3
+111,C,12.963,1,Top Right,Top Left,3,4,1,4,1,2,2,3
+112,C,12.095,1,Top Right,Top Left,4,4,2,3,1,4,3,2
+113,C,17.554,3,Bottom Left,Top Right,3,2,1,2,1,2,3,3
+114,C,25.326,5,Top Right,Top Left,4,4,2,4,3,4,4,3
+115,C,31.023,21,Top Left,Bottom Right,5,3,1,3,3,4,4,3
+116,C,40.411,6,Top Right,Top Left,4,2,1,3,1,4,4,3
+117,C,11.472,7,Player Off,Top Right,5,4,1,3,2,2,3,3
+118,C,30.132,11,Top Right,Top Left,3,4,2,4,2,3,4,3
+119,C,20.299,11,Mid Right,Top Right,2,1,1,3,1,2,2,2
+120,C,23.374,12,Top Right,Top Left,4,3,1,4,2,3,3,2
+121,C,31.982,7,Top Left,Bottom Right,4,3,2,4,2,3,2,1
+122,C,18.277,9,Bottom Left,Top Right,5,3,2,3,2,4,4,3
+123,C,21.601,13,Bottom Right,Top Left,4,3,1,3,2,4,4,4
+124,C,20.968,14,Mid Right,Top Right,5,3,1,4,2,3,2,3
+125,C,16.868,9,Mid Right,Top Right,5,3,2,3,3,4,4,4
+126,C,81.753,8,Top Right,Top Right,4,4,2,4,2,4,5,3
+127,C,56.769,28,Top Left,Bottom Right,5,3,1,4,2,3,3,2
+128,C,35.281,14,Top Left,Bottom Right,4,4,1,4,2,4,4,4
+129,C,17.44,3,Top Right,Top Left,4,2,1,3,2,4,3,2
+130,C,59.529,8,Mid Right,Top Right,4,4,1,3,2,4,2,3
+131,C,41.485,17,Top Right,Top Left,4,3,1,3,1,4,4,2
+132,C,20.26,3,Player Off,Top Right,4,4,2,4,3,3,3,3
+133,C,21.069,7,Player Off,Bottom Right,5,3,1,2,2,3,2,2
+134,C,27.673,7,Player Off,Bottom Right,4,2,1,3,1,4,3,2
+135,C,17.53,6,Player Off,Top Right,5,4,3,5,2,4,2,2
+136,C,16.666,11,Bottom Left,Top Right,5,3,2,4,2,4,3,4
